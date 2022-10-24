@@ -136,3 +136,6 @@ nav ul li a {
   margin: 40px;
   margin-right: 200px;
 }
+#scrolling {
+  scroll-behavior: smooth;
+}
